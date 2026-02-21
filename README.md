@@ -23,22 +23,22 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/katyayani-upadhyay" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" width="32"/>
 </a>
 &nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/Katyayani16/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="30" width="30" style="fill:#FFA116;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="32"/>
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.kaggle.com/katyayaniupadhyay" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="30" width="30" style="fill:#20BEFF;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="32"/>
 </a>
 &nbsp;&nbsp;
 
 <a href="mailto:katyayani1612@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="30" width="30" style="fill:#EA4335;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="32"/>
 </a>
 
 </p>
