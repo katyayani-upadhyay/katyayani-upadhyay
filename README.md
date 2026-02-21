@@ -35,12 +35,16 @@
 <a href="https://www.kaggle.com/katyayaniupadhyay" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="32"/>
 </a>
+&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="18" style="vertical-align:middle;"/>
+  <b>Email:</b> <a href="mailto:katyayani1612@gmail.com">katyayani1612@gmail.com</a>
 
 
 
 
 </p>
-📧 **Email:** katyayani1612@gmail.com
+
 
 # 🧠 AI / Data Science Tech Stack
 
