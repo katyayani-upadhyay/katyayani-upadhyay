@@ -22,20 +22,23 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/katyayani-upadhyay" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://www.linkedin.com/in/katyayani-upadhyay" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/Katyayani16/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+<a href="https://leetcode.com/u/Katyayani16/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="30" width="30" style="fill:#FFA116;"/>
 </a>
+&nbsp;&nbsp;
 
-<a href="https://www.kaggle.com/katyayaniupadhyay" target="blank">
-<img align="center" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="28"/>
+<a href="https://www.kaggle.com/katyayaniupadhyay" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="30" width="30" style="fill:#20BEFF;"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="mailto:katyayani1612@gmail.com">
-<img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="30" width="30" style="fill:#EA4335;"/>
 </a>
 
 </p>
