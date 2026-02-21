@@ -31,15 +31,14 @@
 </a>
 
 <a href="https://www.kaggle.com/katyayaniupadhyay" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" height="30" width="40" />
+<img align="center" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="28"/>
 </a>
 
 <a href="mailto:katyayani1612@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30" width="40" />
+<img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
 </a>
 
 </p>
----
 
 # 🧠 AI / Data Science Tech Stack
 
