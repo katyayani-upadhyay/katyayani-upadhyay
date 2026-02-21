@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Katyayani Upadhyay</h1>
+<h1 align="center">Hi , I'm Katyayani Upadhyay</h1>
 <h3 align="center">AI/ML Engineer | Data Scientist | Deep Learning Specialist 🇮🇳</h3>
 
 <p align="center">
