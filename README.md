@@ -38,7 +38,7 @@
 &nbsp;&nbsp;
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="18" style="vertical-align:middle;"/>
-  <b>Email:</b> <a href="mailto:katyayani1612@gmail.com">katyayani1612@gmail.com</a>
+  <a href="mailto:katyayani1612@gmail.com">katyayani1612@gmail.com</a>
 
 
 
