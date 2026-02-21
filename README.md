@@ -88,10 +88,12 @@
 
 ---
 
-# 🏆 Kaggle (Live Stats)
+# 🏆 Kaggle
 
 <p align="center">
-<img src="https://kaggle-card.vercel.app/api?username=katyayaniupadhyay&theme=dark" />
+<a href="https://www.kaggle.com/katyayaniupadhyay">
+<img src="https://img.shields.io/badge/Kaggle-Visit%20My%20Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
 </p>
 
 ---
@@ -104,10 +106,8 @@
 
 ---
 
-# 📈 GitHub Performance
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=katyayani-upadhyay&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katyayani-upadhyay&theme=default" />
 </p>
 
 ---
