@@ -1,37 +1,131 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Dwivedi</h1>
-<h3 align="center">A passionate Web developer from MNNIT Allahabad,Prayagraj ,India</h3>
+<h1 align="center">Hi 👋, I'm Katyayani Upadhyay</h1>
+<h3 align="center">AI/ML Engineer | Data Scientist | Deep Learning Specialist 🇮🇳</h3>
 
-
-- [My portfolio](https://welth-q1e2.vercel.app/)
-
-- 🔭 I’m currently working on [WELTH](https://github.com/utkarshup32/WELTH.git)
-
- - 💡 Always exploring new tech and open to collaboration
-
- - 🌱 I’m currently learning Web Development, DSA, LLD
-
- - 💬 Ask me about anything
-
-- 📫 How to reach me **utkarshdwivedi1879@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/utkarsh-dwivedi-bb0842260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh dwivedi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/utkarsh1879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarsh1879" height="30" width="40" /></a>
+<p align="center">
+  Designing Intelligent Systems • Optimizing Models • Deploying Scalable ML Solutions
 </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="center">
+  <a href="https://github.com/katyayani-upadhyay">
+    <img src="https://komarev.com/ghpvc/?username=katyayani-upadhyay&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshup32&show_icons=true&locale=en&layout=compact" alt="utkarshup32" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshup32&" alt="utkarshup32" /></p>
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🚀 About Me
 
+- 🔭 AI-ML Intern at **NIELIT**
+- 🤖 Focused on Machine Learning, Deep Learning & Intelligent Automation
+- 📊 Strong foundation in Regression, Classification, Clustering & Ensemble Learning
+- 🧠 Experience with CNN, LSTM, GMM, EM Algorithm & Model Evaluation
+- 📈 Emphasis on Bias-Variance Tradeoff & Optimization
+- 🌱 Exploring Model Deployment & Advanced ML Systems
+- 💬 Ask me about ML Algorithms, Neural Networks, Cross-Validation, Feature Engineering
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vardhan0711/vardhan0711/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vardhan0711/vardhan0711/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vardhan0711/vardhan0711/output/github-snake.svg" />
-</picture>
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/katyayani-upadhyay" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/Katyayani16/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.kaggle.com/katyayaniupadhyay" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+# 🧠 AI / ML Tech Stack
+
+### 🚀 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+### 📊 Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
+
+### 🤖 Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### 🛠 Deployment & Tools
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+---
+
+# 📊 Coding & Competitive Strength
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Katyayani16?theme=dark&font=baloo&ext=contest" />
+</p>
+
+---
+
+# 📈 GitHub Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=katyayani-upadhyay&theme=react-dark" />
+</p>
+
+---
+
+# 📊 GitHub Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katyayani-upadhyay&theme=github_dark" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=katyayani-upadhyay&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katyayani-upadhyay&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=katyayani-upadhyay&theme=radical" />
+</p>
+
+---
+
+# 🏆 Kaggle
+
+<p align="center">
+<a href="https://www.kaggle.com/katyayaniupadhyay">
+<img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+</p>
+
+---
+
+# 🧬 Engineering Philosophy
+
+✔ Data-Driven Decision Making  
+✔ Strong Evaluation Strategy  
+✔ Bias-Variance Aware Modeling  
+✔ Scalable ML System Thinking  
+✔ Clean, Reproducible Code  
+
+---
+
+<p align="center">
+  ⭐ If you find my work impactful, feel free to explore my repositories!
+</p>
