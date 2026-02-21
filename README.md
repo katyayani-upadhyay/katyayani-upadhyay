@@ -21,6 +21,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/katyayani-upadhyay" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
@@ -32,10 +33,12 @@
 <a href="https://www.kaggle.com/katyayaniupadhyay" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" height="30" width="40" />
 </a>
+
+<a href="mailto:katyayani1612@gmail.com">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30" width="40" />
+</a>
+
 </p>
-
-📧 **Email:** katyayani1612@gmail.com
-
 ---
 
 # 🧠 AI / Data Science Tech Stack
