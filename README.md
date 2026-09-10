@@ -1,20 +1,20 @@
 <h1 align="center">Hi , I'm Katyayani Upadhyay</h1>
-<h3 align="center">AI/ML Engineer | Data Scientist | Deep Learning Specialist 🇮🇳</h3>
+<h3 align="center">AI/ML Engineer | Agentic AI & RAG | Data Science 🇮🇳</h3>
 
 <p align="center">
-  Designing Intelligent Systems • Optimizing Models • Deploying Scalable ML Solutions
+  Engineering AI that acts, not just answers • Evaluating Models, Not Demos • Shipping Production ML & Data Systems
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Interned at **NIELIT** in AI/ML
-- 🤖 Focused on Machine Learning, Deep Learning & Intelligent Automation
-- 📊 Strong foundation in Supervised Learning, Model Evaluation & Optimization
-- 🧠 Experience with CNN, LSTM, GMM, EM Algorithm & NLP pipelines
-- 📈 Passionate about Bias-Variance Tradeoff & Scalable ML Systems
-- 🌱 Exploring Advanced Model Deployment & Applied AI
+- 🔭 AI Engineer Intern at **GobbleCube** (quick-commerce AI) · previously AI/ML Intern at **NIELIT**
+- 🤖 Building **Agentic AI** — LangGraph agent loops, **MCP tool-calling**, RAG with citation guardrails
+- 📏 I evaluate what I build — **RAGAS**, CI eval gates, refusal over hallucination
+- 🧪 Experimentation & Causal Inference — **A/B testing, CUPED, Difference-in-Differences**
+- 📊 Production data pipelines — **dbt, DuckDB, PostgreSQL**, data-quality testing, Pydantic validation
+- 🌱 Exploring Airflow orchestration & LoRA/QLoRA fine-tuning
 
 ---
 
@@ -45,18 +45,55 @@
 
 </p>
 
+---
+
+# 🔥 Featured Projects
+
+- 🛒 **[QuickCommerce Copilot](https://github.com/katyayani-upadhyay/quickcommerce-copilot)** — live agentic RAG assistant with typed **MCP tool calls**, RAGAS-evaluated (tool-call success **0% → 100%**), citation guardrails, CI eval gate → [**Live Demo**](https://quickcommerce-copilot.onrender.com)
+- ⚡ **[GridLoad Demand & Experiments](https://github.com/katyayani-upadhyay/gridload-demand-experiments)** — dbt + LightGBM load forecasting (**52% error cut vs baseline**), A/B analysis with **CUPED**, lockdown **DiD** study → [**Live Dashboard**](https://gridload-demand-experiments.streamlit.app)
+- 🔬 **[Agentic AI Research Platform](https://github.com/katyayani-upadhyay/Agentic-ai-research-platform)** — multi-agent LangGraph research assistant over 20+ live web sources → [**Live**](https://agentic-ai-research-platform.onrender.com/)
+
+---
 
 # 🧠 AI / Data Science Tech Stack
 
 ### 🚀 Programming
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+### 🤖 GenAI & Agentic AI
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Loops-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20%2B%20Citations-blue?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Typed%20Tool%20Calling-8A2BE2?style=for-the-badge)
+![RAGAS](https://img.shields.io/badge/RAGAS-LLM%20Evaluation-success?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20DB-DC244C?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-Embeddings-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+---
+
+### 🧪 Experimentation & Causal Inference
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-Power%20%7C%20MDE%20%7C%20SRM-blue?style=for-the-badge)
+![CUPED](https://img.shields.io/badge/CUPED-Variance%20Reduction-success?style=for-the-badge)
+![DiD](https://img.shields.io/badge/Difference--in--Differences-Causal%20Inference-orange?style=for-the-badge)
+![statsmodels](https://img.shields.io/badge/statsmodels-Statistical%20Modeling-4051B5?style=for-the-badge)
+
+---
+
+### 🗄 Data Engineering
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-Data%20Modeling%20%2B%20Tests-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-Analytics%20Warehouse-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Pydantic](https://img.shields.io/badge/Pydantic-Schema%20Validation-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 ---
 
 ### 📊 Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-Forecasting-2E8B57?style=for-the-badge)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-Modeling-blue?style=for-the-badge)
 ![Cross Validation](https://img.shields.io/badge/Cross--Validation-Evaluation-success?style=for-the-badge)
 ![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-Optimization-orange?style=for-the-badge)
@@ -88,8 +125,13 @@
 ---
 
 ### 🛠 Deployment & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD%20%2B%20Eval%20Gates-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Render](https://img.shields.io/badge/Render-Deployed%20Live-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
@@ -124,14 +166,14 @@
 
 # 🧬 Engineering Philosophy
 
-✔ Data-Driven Decision Making  
-✔ Strong Evaluation Strategy  
-✔ Bias-Variance Aware Modeling  
+✔ Evaluation Before Demos  
+✔ Refuse Rather Than Hallucinate  
+✔ Data-Driven & Causally Rigorous  
 ✔ Reproducible & Clean Code  
-✔ Scalable ML Thinking  
+✔ Scalable, Production-First ML Thinking  
 
 ---
 
 <p align="center">
-  <b>"Data is powerful — but intelligence comes from the right model, evaluation, and interpretation."</b>
+  <b>"Most AI is easy to demo and hard to trust — I build the hard part."</b>
 </p>
