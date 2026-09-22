@@ -1,5 +1,5 @@
-<h1 align="center">Hi , I'm Katyayani Upadhyay</h1>
-<h3 align="center">AI/ML Engineer | Agentic AI & RAG | Data Science 🇮🇳</h3>
+<h1 align="center">Hi, I'm Katyayani Upadhyay</h1>
+<h3 align="center">AI/ML Engineer | Agentic AI & RAG | Data Science</h3>
 
 <p align="center">
   Engineering AI that acts, not just answers • Evaluating Models, Not Demos • Shipping Production ML & Data Systems
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🔭 AI Engineer Intern at **GobbleCube** (quick-commerce AI) · previously AI/ML Intern at **NIELIT**
+- 🔭 AI Engineer Intern at **GobbleCube** (June–September 2026, completed) · previously AI/ML Engineer Intern at **NIELIT**
 - 🤖 Building **Agentic AI** — LangGraph agent loops, **MCP tool-calling**, RAG with citation guardrails
 - 📏 I evaluate what I build — **RAGAS**, CI eval gates, refusal over hallucination
 - 🧪 Experimentation & Causal Inference — **A/B testing, CUPED, Difference-in-Differences**
@@ -49,9 +49,9 @@
 
 # 🔥 Featured Projects
 
-- 🛒 **[QuickCommerce Copilot](https://github.com/katyayani-upadhyay/quickcommerce-copilot)** — live agentic RAG assistant with typed **MCP tool calls**, RAGAS-evaluated (tool-call success **0% → 100%**), citation guardrails, CI eval gate → [**Live Demo**](https://quickcommerce-copilot.onrender.com)
-- ⚡ **[GridLoad Demand & Experiments](https://github.com/katyayani-upadhyay/gridload-demand-experiments)** — dbt + LightGBM load forecasting (**52% error cut vs baseline**), A/B analysis with **CUPED**, lockdown **DiD** study → [**Live Dashboard**](https://gridload-demand-experiments.streamlit.app)
-- 🔬 **[Agentic AI Research Platform](https://github.com/katyayani-upadhyay/Agentic-ai-research-platform)** — multi-agent LangGraph research assistant over 20+ live web sources → [**Live**](https://agentic-ai-research-platform.onrender.com/)
+- 🛒 **[QuickCommerce Copilot](https://github.com/katyayani-upadhyay/quickcommerce-copilot)** — live agentic RAG assistant: policy retrieval + typed **MCP tool calls** in a decide–act–reflect **LangGraph** loop, citation guardrails that refuse rather than guess, 3-provider LLM failover, and a **CI smoke gate** with an enforced PASS. On a **60-row stratified eval** vs the retrieval-only baseline: tool-call success **2/10 → 10/10**, citation coverage **56% → 100%**, **RAGAS faithfulness 0.95**, **0 hallucinated answers** → [**Live Demo**](https://quickcommerce-copilot.onrender.com) *(cold-starts in about a minute on the free tier)*
+- ⚡ **[GridLoad Demand & Experiments](https://github.com/katyayani-upadhyay/gridload-demand-experiments)** — energy analytics pipeline on real OPSD Spain/Portugal hourly load: **LightGBM** day-ahead forecasting at **WAPE 2.16%** vs 4.49% seasonal-naive (**52% error cut**) over 15,335 hours; **dbt + DuckDB** with **56/56 data-quality tests** in CI; a simulated demand-response A/B test (MDE 4.2%, SRM check, **CUPED 94.7% variance reduction**, ship/no-ship doc); and a **difference-in-differences** lockdown study honestly reporting a non-significant **−2.2%** effect → [**Live Dashboard**](https://gridload-demand-experiments.streamlit.app)
+- 🔬 **[Agentic AI Research Platform](https://github.com/katyayani-upadhyay/Agentic-ai-research-platform)** — autonomous multi-agent research system (LangGraph, RAG, semantic retrieval, Tavily, Groq, HuggingFace, FastAPI, Docker) generating reports from **20+ real-time web sources**, **70% faster** research synthesis → [**Live**](https://agentic-ai-research-platform.onrender.com)
 
 ---
 
